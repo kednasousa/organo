@@ -1,6 +1,6 @@
 import './Banner.css'
 
-function Banner() {
+const Banner = () => {
 	// JSX -- lê e transforma em elementos no DOM
 	return (
 		<header className='banner'>
