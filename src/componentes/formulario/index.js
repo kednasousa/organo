@@ -6,8 +6,8 @@ const Formulario = () => {
 		<section className="formulario">
 			<form>
 				<h2>Preencha os dados para criar o card do colaborador</h2>
-				<CampoTexto label="Nome" placeholder="Digite seu nome" />
-				<CampoTexto label="Cargo" placeholder="Digite seu cargo" />
+				<CampoTexto label="Nome" placeholder="Digite o nome do colaborador" />
+				<CampoTexto label="Cargo" placeholder="Digite o cargo" />
 				<CampoTexto label="Imagem" placeholder="Digite o endereço da imagem" />
 			</form>
 		</section>
