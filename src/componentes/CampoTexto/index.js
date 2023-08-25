@@ -8,7 +8,7 @@ const CampoTexto = (props) => {
 
 	const aoDigitado = (evento) => {
 		valor = evento.target.value
-		console.log(valor)
+		console.log(valor);
 	}
 
 	return (

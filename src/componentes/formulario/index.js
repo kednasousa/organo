@@ -9,7 +9,7 @@ const Formulario = () => {
 		'Programação',
 		'Front-End',
 		'Data Science',
-		'DevOps',
+		'Devops',
 		'UX e Design',
 		'Mobile',
 		'Inovação e Gestão'
